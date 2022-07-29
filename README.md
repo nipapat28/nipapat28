@@ -1,8 +1,11 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: Nipapat Khianyikhio
-- ⚡ Student id: 63363454
+[![image](http://aaumanalytics.com/yann.aspx?cname=los+gatos+comen+uvas&cid=35)](#)
+
+- 😄 My name is: **Nipapat Khianyikhio**
+- ⚡ Student id: **63363454**
 - 🔭 I'm currently studying on **Faculty of Engineering**.
+- 
 
 ## Developer Tech
 
