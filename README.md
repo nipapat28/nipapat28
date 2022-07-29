@@ -7,6 +7,14 @@
 - 🔭 I'm currently studying on **Faculty of Engineering**.
 - 
 
+### Programming ability
+<p align="left">
+<a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</P>
+
 ## Developer Tech
 
 ### Frameworks 
